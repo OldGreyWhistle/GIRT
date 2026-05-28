@@ -62,7 +62,7 @@ Bilateral edges by family:
 **Source provenance:** Amendment 10 §3.H; [F-05 Samaddar 2025](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md)
 **First introduced:** Amendment 10 (27 May 2026)
 **Status:** Active
-**Cross-references:** [CD-OP-026](#) (Index 1 — informative modal status)
+**Cross-references:** [CD-OP-026](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-026) (Index 1 — informative modal status)
 
 #### CR-0002
 
@@ -177,7 +177,7 @@ Bilateral edges by family:
 **Source provenance:** Scaffold §4.3
 **First introduced:** Pre-trial; Stephen Q3 deployment 25 May 2026
 **Status:** Active
-**Cross-references:** [CD-OP-Adj-003](#)
+**Cross-references:** [CD-OP-Adj-003](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-adj-003)
 **Deep-review files** (in `./deep-review-reports/`): [B-01](./deep-review-reports/B-01_ThemeC_deeppass.md) (Misner-Wheeler / Rainich already-unified construction).
 
 #### CR-0011
@@ -462,7 +462,7 @@ Bilateral edges by family:
 **Source provenance:** Scaffold §5.2 [v7 addition]; §11.3 Item 5
 **First introduced:** v7
 **Status:** Active
-**Cross-references:** [CD-OP-Item-005](#)
+**Cross-references:** [CD-OP-Item-005](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-item-005)
 
 #### CR-0034
 
@@ -499,7 +499,7 @@ Bilateral edges by family:
 **Source provenance:** Scaffold §10.2; v3 honest-disclosure correction
 **First introduced:** v3
 **Status:** Active
-**Cross-references:** [CD-OP-012](#) (honest-disclosure correction #1)
+**Cross-references:** [CD-OP-012](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-012) (honest-disclosure correction #1)
 
 #### CR-0037
 
@@ -577,7 +577,7 @@ Bilateral edges by family:
 **Source provenance:** Scaffold §5.2 [v7 addition]; §11.3 Item 5
 **First introduced:** v7
 **Status:** Active
-**Cross-references:** [MU-002](#)
+**Cross-references:** [MU-002](UMF_Trial_S3M0S1_Index3_MetricUnits_v2.md#mu-002)
 
 #### CR-0043
 
@@ -590,7 +590,7 @@ Bilateral edges by family:
 **Source provenance:** Amendment 10 §3.E; Scaffold §11.3 Item 5 v8 substantive extension
 **First introduced:** v8 (Amendment 10)
 **Status:** Active
-**Cross-references:** [MU-002](#)
+**Cross-references:** [MU-002](UMF_Trial_S3M0S1_Index3_MetricUnits_v2.md#mu-002)
 
 #### CR-0044
 
@@ -603,7 +603,7 @@ Bilateral edges by family:
 **Source provenance:** Amendment 10 §3.E; Scaffold §11.3 Item 5
 **First introduced:** v8 (Amendment 10)
 **Status:** Active
-**Cross-references:** [MU-002](#), [CD-OP-Item-005](#)
+**Cross-references:** [MU-002](UMF_Trial_S3M0S1_Index3_MetricUnits_v2.md#mu-002), [CD-OP-Item-005](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-item-005)
 
 #### CR-0045
 
@@ -616,7 +616,7 @@ Bilateral edges by family:
 **Source provenance:** Scaffold §5.2 [v7 honest disclosure]
 **First introduced:** v7
 **Status:** Active
-**Cross-references:** [MU-001](#), [CD-OP-012](#)
+**Cross-references:** [MU-001](UMF_Trial_S3M0S1_Index3_MetricUnits_v2.md#mu-001), [CD-OP-012](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-012)
 
 #### CR-0046
 
@@ -629,7 +629,7 @@ Bilateral edges by family:
 **Source provenance:** Amendment 10 §3.E; Research Plan v0.6 §8.1
 **First introduced:** v8 (Amendment 10)
 **Status:** Active
-**Cross-references:** [MU-001](#)
+**Cross-references:** [MU-001](UMF_Trial_S3M0S1_Index3_MetricUnits_v2.md#mu-001)
 
 #### CR-0047
 
@@ -642,7 +642,7 @@ Bilateral edges by family:
 **Source provenance:** Amendment 10 §3.E; [F-05 Samaddar 2025](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) §7.6
 **First introduced:** v8 (Amendment 10)
 **Status:** Active
-**Cross-references:** [CD-TH-012](#)
+**Cross-references:** [CD-TH-012](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-th-012)
 
 #### CR-0048
 
@@ -655,7 +655,7 @@ Bilateral edges by family:
 **Source provenance:** Scaffold §11.3 Item 5
 **First introduced:** v7
 **Status:** Active
-**Cross-references:** [CD-TH-012](#)
+**Cross-references:** [CD-TH-012](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-th-012)
 
 #### CR-0049
 
@@ -668,7 +668,7 @@ Bilateral edges by family:
 **Source provenance:** Amendment 10 §3.E; [F-05 Samaddar 2025](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) §7.3
 **First introduced:** v8 (Amendment 10)
 **Status:** Active
-**Cross-references:** [CD-TH-015](#)
+**Cross-references:** [CD-TH-015](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-th-015)
 
 ### §3.7 Modal-tier edges
 
@@ -683,7 +683,7 @@ Bilateral edges by family:
 **Source provenance:** Amendment 10 §3.G; Scaffold §5.2 v8 honest disclosure
 **First introduced:** v8 (Amendment 10)
 **Status:** Active
-**Cross-references:** [CD-OP-019](#), [CD-OP-020](#)
+**Cross-references:** [CD-OP-019](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-019), [CD-OP-020](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-020)
 
 #### CR-0051
 
@@ -696,7 +696,7 @@ Bilateral edges by family:
 **Source provenance:** Amendment 10 §3.G; Scaffold §5.2 v8 honest disclosure
 **First introduced:** v8 (Amendment 10)
 **Status:** Active
-**Cross-references:** [CD-OP-012](#) (honest-disclosure correction #5), [CD-OP-017](#), [CD-OP-020](#)
+**Cross-references:** [CD-OP-012](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-012) (honest-disclosure correction #5), [CD-OP-017](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-017), [CD-OP-020](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-020)
 
 #### CR-0052
 
@@ -709,7 +709,7 @@ Bilateral edges by family:
 **Source provenance:** Amendment 10 §3.G; Scaffold §5.2 v8 honest disclosure
 **First introduced:** v8 (Amendment 10)
 **Status:** Active; available for verification extension pending Stephen direction
-**Cross-references:** [CD-OP-008](#)
+**Cross-references:** [CD-OP-008](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-008)
 
 ---
 
@@ -797,7 +797,7 @@ Bilateral edges by family:
 **Source provenance:** Scaffold §7.3
 **First introduced:** v3 (Issue 2 + scope-expansion)
 **Status:** Active
-**Cross-references:** [CD-OP-Item-006](#)
+**Cross-references:** [CD-OP-Item-006](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-item-006)
 **Deep-review files** (Theme C foundational, in `./deep-review-reports/`): [F-10](./deep-review-reports/F-10_ThemeC_deeppass.md) (highest-fit framework); [F-08](./deep-review-reports/F-08_ThemeC_deeppass.md); [B-01](./deep-review-reports/B-01_ThemeC_deeppass.md) (Wheeler "charge without charge" line).
 
 ### CR-JC-0007
@@ -812,7 +812,7 @@ Bilateral edges by family:
 **Source provenance:** Scaffold §7.2
 **First introduced:** v3 (Issue 1)
 **Status:** Active
-**Cross-references:** [CD-TH-018](#)
+**Cross-references:** [CD-TH-018](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-th-018)
 **Deep-review files** (Theme C foundational, in `./deep-review-reports/`): [A-06](./deep-review-reports/A-06_ThemeC_deeppass.md); [A-10](./deep-review-reports/A-10_ThemeC_deeppass.md).
 
 ### CR-JC-0008
@@ -892,7 +892,7 @@ Bilateral edges by family:
 **Source provenance:** Scaffold §10.2; v3 honest-disclosure correction
 **First introduced:** v3
 **Status:** Active
-**Cross-references:** [CR-0028](#cr-0028), [CR-0029](#cr-0029), [CR-0036](#cr-0036), [CD-OP-012](#) (honest-disclosure correction #1)
+**Cross-references:** [CR-0028](#cr-0028), [CR-0029](#cr-0029), [CR-0036](#cr-0036), [CD-OP-012](UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md#cd-op-012) (honest-disclosure correction #1)
 **Deep-review files** (Theme C foundational, in `./deep-review-reports/`): [F-10](./deep-review-reports/F-10_ThemeC_deeppass.md) (Refracted Gravity / Pradyumna-Diaferio line); [F-08](./deep-review-reports/F-08_ThemeC_deeppass.md) (Verlinde EG competing interpretation, see F-08 deeppass §Limited-success: Verlinde 2017 EG produces no clean Bullet-Cluster-style offset, Lasky-Doneva 2010); [B-01](./deep-review-reports/B-01_ThemeC_deeppass.md) (Mashhoon non-local gravity lineage context).
 
 ---

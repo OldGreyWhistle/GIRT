@@ -192,7 +192,7 @@ CD-OP-Adj-020 (Step 2 indexes production cycle) and CD-OP-Adj-021 (Toolkit produ
 **First introduced:** v3 (Bullet Cluster correction)
 **Status:** Active
 **Cross-program portability:** Generic
-**Cross-references for specific corrections:** Correction #2 (LRD-anomaly post-Rusakov) → [Rusakov 2026 v2](../deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v2.md), [v1](../deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v1.md), [annotation](../deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_annotation.md). Correction #4 (f(R) GB η-undershoot; CPV-operator-alone ruled out) → [Whittingham 2026](../deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md); [Liu-Qin-Bian 2026](../deep-review-reports/F-02_Liu2026_PostJan2026_deeppass.md). Correction #5 (Samaddar quality concerns; cross-cluster preprint heterogeneity) → [Samaddar 2025](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) + [Addendum](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md). Correction #3 (n_B/s observational-target) spans the F-05 cluster: [Pereira](../deep-review-reports/F-05_Pereira2026_PostJan2026_deeppass.md), [Whittingham](../deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md), [Samaddar](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md).
+**Cross-references for specific corrections:** Correction #2 (LRD-anomaly post-Rusakov) → [Rusakov 2026 v2](./deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v2.md), [v1](./deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v1.md), [annotation](./deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_annotation.md). Correction #4 (f(R) GB η-undershoot; CPV-operator-alone ruled out) → [Whittingham 2026](./deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md); [Liu-Qin-Bian 2026](./deep-review-reports/F-02_Liu2026_PostJan2026_deeppass.md). Correction #5 (Samaddar quality concerns; cross-cluster preprint heterogeneity) → [Samaddar 2025](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) + [Addendum](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md). Correction #3 (n_B/s observational-target) spans the F-05 cluster: [Pereira](./deep-review-reports/F-05_Pereira2026_PostJan2026_deeppass.md), [Whittingham](./deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md), [Samaddar](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md).
 
 ### CD-OP-013
 
@@ -295,7 +295,7 @@ CD-OP-Adj-020 (Step 2 indexes production cycle) and CD-OP-Adj-021 (Toolkit produ
 **First introduced:** Amendment 10 (27 May 2026)
 **Status:** Active
 **Cross-program portability:** Generic
-**Cross-references:** [CD-OP-008](#cd-op-008), [CD-OP-018](#cd-op-018), [CD-OP-019](#cd-op-019), [CD-OP-012](#cd-op-012) (correction #5 logged this tier characterisation). Deep-review files exemplifying this tier (in `../deep-review-reports/`): [F-05 Samaddar 2025 base](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) (six manuscript-internal quality concerns cataloged in §7.1, §7.3, §7.4, §7.8, §7.9, §7.10); [F-05 Samaddar 2025 Addendum](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md) (peer-review-status verification finding).
+**Cross-references:** [CD-OP-008](#cd-op-008), [CD-OP-018](#cd-op-018), [CD-OP-019](#cd-op-019), [CD-OP-012](#cd-op-012) (correction #5 logged this tier characterisation). Deep-review files exemplifying this tier (in `./deep-review-reports/`): [F-05 Samaddar 2025 base](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) (six manuscript-internal quality concerns cataloged in §7.1, §7.3, §7.4, §7.8, §7.9, §7.10); [F-05 Samaddar 2025 Addendum](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md) (peer-review-status verification finding).
 
 ### CD-OP-021
 
@@ -431,7 +431,7 @@ CD-OP-Adj-020 (Step 2 indexes production cycle) and CD-OP-Adj-021 (Toolkit produ
 **First introduced:** Pre-trial; series taxonomy
 **Status:** Active; **placement-criteria definition tentative — Stephen verification recommended**
 **Cross-program portability:** UMF-specific
-**Cross-references:** [CD-OP-029](#cd-op-029); [CD-OP-040](#cd-op-040). Deep-review files (Theme C foundational, in `../deep-review-reports/`): [A-01](../deep-review-reports/A-01_ThemeC_deeppass.md); [A-02](../deep-review-reports/A-02_ThemeC_deeppass.md); [A-04](../deep-review-reports/A-04_ThemeC_deeppass.md); [A-05](../deep-review-reports/A-05_ThemeC_deeppass.md); [A-06](../deep-review-reports/A-06_ThemeC_deeppass.md); [A-08](../deep-review-reports/A-08_ThemeC_deeppass.md); [A-09](../deep-review-reports/A-09_ThemeC_deeppass.md); [A-10](../deep-review-reports/A-10_ThemeC_deeppass.md).
+**Cross-references:** [CD-OP-029](#cd-op-029); [CD-OP-040](#cd-op-040). Deep-review files (Theme C foundational, in `./deep-review-reports/`): [A-01](./deep-review-reports/A-01_ThemeC_deeppass.md); [A-02](./deep-review-reports/A-02_ThemeC_deeppass.md); [A-04](./deep-review-reports/A-04_ThemeC_deeppass.md); [A-05](./deep-review-reports/A-05_ThemeC_deeppass.md); [A-06](./deep-review-reports/A-06_ThemeC_deeppass.md); [A-08](./deep-review-reports/A-08_ThemeC_deeppass.md); [A-09](./deep-review-reports/A-09_ThemeC_deeppass.md); [A-10](./deep-review-reports/A-10_ThemeC_deeppass.md).
 
 ### CD-OP-032
 
@@ -444,7 +444,7 @@ CD-OP-Adj-020 (Step 2 indexes production cycle) and CD-OP-Adj-021 (Toolkit produ
 **First introduced:** Pre-trial
 **Status:** Active; **placement-criteria definition tentative — Stephen verification recommended**
 **Cross-program portability:** UMF-specific
-**Cross-references:** [CD-OP-029](#cd-op-029); [CD-OP-040](#cd-op-040). Deep-review files (Theme C foundational, in `../deep-review-reports/`): [B-01](../deep-review-reports/B-01_ThemeC_deeppass.md); [B-02](../deep-review-reports/B-02_ThemeC_deeppass.md); [B-03](../deep-review-reports/B-03_ThemeC_deeppass.md); [B-04](../deep-review-reports/B-04_ThemeC_deeppass.md).
+**Cross-references:** [CD-OP-029](#cd-op-029); [CD-OP-040](#cd-op-040). Deep-review files (Theme C foundational, in `./deep-review-reports/`): [B-01](./deep-review-reports/B-01_ThemeC_deeppass.md); [B-02](./deep-review-reports/B-02_ThemeC_deeppass.md); [B-03](./deep-review-reports/B-03_ThemeC_deeppass.md); [B-04](./deep-review-reports/B-04_ThemeC_deeppass.md).
 
 ### CD-OP-033
 
@@ -457,7 +457,7 @@ CD-OP-Adj-020 (Step 2 indexes production cycle) and CD-OP-Adj-021 (Toolkit produ
 **First introduced:** Pre-trial
 **Status:** Active; **placement-criteria definition tentative — Stephen verification recommended**
 **Cross-program portability:** UMF-specific
-**Cross-references:** [CD-OP-029](#cd-op-029); [CD-OP-040](#cd-op-040). Deep-review file (combined foundational pair, in `../deep-review-reports/`): [D-01 + D-02 combined](../deep-review-reports/D-01_D-02_ThemeC_deeppass.md).
+**Cross-references:** [CD-OP-029](#cd-op-029); [CD-OP-040](#cd-op-040). Deep-review file (combined foundational pair, in `./deep-review-reports/`): [D-01 + D-02 combined](./deep-review-reports/D-01_D-02_ThemeC_deeppass.md).
 
 ### CD-OP-034
 
@@ -470,9 +470,9 @@ CD-OP-Adj-020 (Step 2 indexes production cycle) and CD-OP-Adj-021 (Toolkit produ
 **First introduced:** Pre-trial
 **Status:** Active; **placement-criteria definition tentative — Stephen verification recommended**
 **Cross-program portability:** UMF-specific
-**Cross-references:** [CD-OP-029](#cd-op-029); [CD-OP-040](#cd-op-040). Deep-review files in `../deep-review-reports/`:
-- Theme C foundational: [F-01](../deep-review-reports/F-01_ThemeC_deeppass.md); [F-02](../deep-review-reports/F-02_ThemeC_deeppass.md); [F-03](../deep-review-reports/F-03_ThemeC_deeppass.md); [F-04](../deep-review-reports/F-04_ThemeC_deeppass.md); [F-05](../deep-review-reports/F-05_ThemeC_deeppass.md); [F-06](../deep-review-reports/F-06_ThemeC_deeppass.md); [F-07](../deep-review-reports/F-07_ThemeC_deeppass.md); [F-08](../deep-review-reports/F-08_ThemeC_deeppass.md); [F-09](../deep-review-reports/F-09_ThemeC_deeppass.md); [F-10](../deep-review-reports/F-10_ThemeC_deeppass.md).
-- Post-cycle paper deeppasses: [F-02 Liu 2026 (PostJan2026)](../deep-review-reports/F-02_Liu2026_PostJan2026_deeppass.md); [F-05 Pereira 2026 (PostJan2026)](../deep-review-reports/F-05_Pereira2026_PostJan2026_deeppass.md); [F-05 Samaddar 2025 (AdjacencyReview2026)](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) + [Addendum](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md); [F-05 Whittingham 2026 (PostJan2026)](../deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md).
+**Cross-references:** [CD-OP-029](#cd-op-029); [CD-OP-040](#cd-op-040). Deep-review files in `./deep-review-reports/`:
+- Theme C foundational: [F-01](./deep-review-reports/F-01_ThemeC_deeppass.md); [F-02](./deep-review-reports/F-02_ThemeC_deeppass.md); [F-03](./deep-review-reports/F-03_ThemeC_deeppass.md); [F-04](./deep-review-reports/F-04_ThemeC_deeppass.md); [F-05](./deep-review-reports/F-05_ThemeC_deeppass.md); [F-06](./deep-review-reports/F-06_ThemeC_deeppass.md); [F-07](./deep-review-reports/F-07_ThemeC_deeppass.md); [F-08](./deep-review-reports/F-08_ThemeC_deeppass.md); [F-09](./deep-review-reports/F-09_ThemeC_deeppass.md); [F-10](./deep-review-reports/F-10_ThemeC_deeppass.md).
+- Post-cycle paper deeppasses: [F-02 Liu 2026 (PostJan2026)](./deep-review-reports/F-02_Liu2026_PostJan2026_deeppass.md); [F-05 Pereira 2026 (PostJan2026)](./deep-review-reports/F-05_Pereira2026_PostJan2026_deeppass.md); [F-05 Samaddar 2025 (AdjacencyReview2026)](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) + [Addendum](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md); [F-05 Whittingham 2026 (PostJan2026)](./deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md).
 
 ### CD-OP-035
 
@@ -567,7 +567,7 @@ Combined-entry exception: D-01 + D-02 are treated as a foundational pair per mat
 **First introduced:** Amendment 13 (28 May 2026)
 **Status:** Active
 **Cross-program portability:** Generic (convention schema is reusable; UMF-specific instances use UMF matrix codes and Item codes)
-**Cross-references:** [CD-OP-004](#cd-op-004) (audit-trail integrity; content-preservation rule on renames); [CD-OP-029](#cd-op-029) (matrix taxonomy); [CD-OP-033](#cd-op-033) (D-series; combined-entry exception basis); [CD-OP-Item-007](#cd-op-item-007) (item-phenomenon Rusakov pair example application). Deep-review files: all 31 files in `../deep-review-reports/` deployed under this convention as of Amendment 13.
+**Cross-references:** [CD-OP-004](#cd-op-004) (audit-trail integrity; content-preservation rule on renames); [CD-OP-029](#cd-op-029) (matrix taxonomy); [CD-OP-033](#cd-op-033) (D-series; combined-entry exception basis); [CD-OP-Item-007](#cd-op-item-007) (item-phenomenon Rusakov pair example application). Deep-review files: all 31 files in `./deep-review-reports/` deployed under this convention as of Amendment 13.
 
 ---
 
@@ -993,7 +993,7 @@ Combined-entry exception: D-01 + D-02 are treated as a foundational pair per mat
 **Status:** Active
 **Round-marker:** Research Plan v0.3 round
 **Cross-program portability:** Generic
-**Deep-review files for the five-framework joint citation** (gravity-mass spatial offset deployment per Issue 2; in `../deep-review-reports/`): [F-10 Refracted Gravity](../deep-review-reports/F-10_ThemeC_deeppass.md) (highest-fit framework); [F-08 Verlinde EG](../deep-review-reports/F-08_ThemeC_deeppass.md); [B-01 Misner-Wheeler "charge without charge"](../deep-review-reports/B-01_ThemeC_deeppass.md).
+**Deep-review files for the five-framework joint citation** (gravity-mass spatial offset deployment per Issue 2; in `./deep-review-reports/`): [F-10 Refracted Gravity](./deep-review-reports/F-10_ThemeC_deeppass.md) (highest-fit framework); [F-08 Verlinde EG](./deep-review-reports/F-08_ThemeC_deeppass.md); [B-01 Misner-Wheeler "charge without charge"](./deep-review-reports/B-01_ThemeC_deeppass.md).
 
 ### CD-OP-Adj-012
 
@@ -1009,7 +1009,7 @@ Combined-entry exception: D-01 + D-02 are treated as a foundational pair per mat
 **Status:** Active
 **Round-marker:** Research Plan v0.3 round
 **Cross-program portability:** Generic
-**Cross-references:** [CD-OP-Item-007](#cd-op-item-007). Deep-review files (Item-007 Rusakov post-resolution, in `../deep-review-reports/`): [Rusakov 2026 v2 (current)](../deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v2.md); [Rusakov 2026 v1 (superseded for framing-bias per CD-OP-003 #1)](../deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v1.md); [annotation](../deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_annotation.md).
+**Cross-references:** [CD-OP-Item-007](#cd-op-item-007). Deep-review files (Item-007 Rusakov post-resolution, in `./deep-review-reports/`): [Rusakov 2026 v2 (current)](./deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v2.md); [Rusakov 2026 v1 (superseded for framing-bias per CD-OP-003 #1)](./deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v1.md); [annotation](./deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_annotation.md).
 
 ### CD-OP-Adj-013
 
@@ -1103,7 +1103,7 @@ Combined-entry exception: D-01 + D-02 are treated as a foundational pair per mat
 **First introduced:** 27 May 2026
 **Status:** Active (reading-layer CLOSED at v7)
 **Cross-program portability:** Generic
-**Cross-references:** [CD-OP-016](#cd-op-016). Deep-review files (post-Jan 2026 cycle body-access papers, in `../deep-review-reports/`): [F-05 Pereira 2026 (Paper 2)](../deep-review-reports/F-05_Pereira2026_PostJan2026_deeppass.md); [F-05 Whittingham 2026 (Paper 5)](../deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md); [F-02 Liu-Qin-Bian 2026 (Paper 8)](../deep-review-reports/F-02_Liu2026_PostJan2026_deeppass.md).
+**Cross-references:** [CD-OP-016](#cd-op-016). Deep-review files (post-Jan 2026 cycle body-access papers, in `./deep-review-reports/`): [F-05 Pereira 2026 (Paper 2)](./deep-review-reports/F-05_Pereira2026_PostJan2026_deeppass.md); [F-05 Whittingham 2026 (Paper 5)](./deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md); [F-02 Liu-Qin-Bian 2026 (Paper 8)](./deep-review-reports/F-02_Liu2026_PostJan2026_deeppass.md).
 
 ### CD-OP-Adj-019
 
@@ -1120,7 +1120,7 @@ Combined-entry exception: D-01 + D-02 are treated as a foundational pair per mat
 **Status:** Active (AdjacencyReview2026 cycle CLOSED at Amendment 10)
 **Round-marker:** Amendment 10 / Scaffold v8 / Research Plan v0.6 / Handoff v6 cycle
 **Cross-program portability:** Generic
-**Cross-references:** [CD-OP-008](#cd-op-008), [CD-OP-016](#cd-op-016), [CD-OP-015](#cd-op-015), [CD-OP-020](#cd-op-020) (preprint quality concerns tier registered this cycle), [CD-OP-012](#cd-op-012) (correction #5 logged). Deep-review files (AdjacencyReview2026 body-access paper, in `../deep-review-reports/`): [F-05 Samaddar 2025 (Paper 3)](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md); [F-05 Samaddar 2025 Addendum](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md) (peer-review-status verification finding).
+**Cross-references:** [CD-OP-008](#cd-op-008), [CD-OP-016](#cd-op-016), [CD-OP-015](#cd-op-015), [CD-OP-020](#cd-op-020) (preprint quality concerns tier registered this cycle), [CD-OP-012](#cd-op-012) (correction #5 logged). Deep-review files (AdjacencyReview2026 body-access paper, in `./deep-review-reports/`): [F-05 Samaddar 2025 (Paper 3)](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md); [F-05 Samaddar 2025 Addendum](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md) (peer-review-status verification finding).
 
 ---
 
@@ -1205,7 +1205,7 @@ Combined-entry exception: D-01 + D-02 are treated as a foundational pair per mat
 **First introduced:** Pre-trial; substantively extended v7 + v8
 **Status:** Active; Open
 **Cross-program portability:** UMF-specific
-**Cross-references:** [CD-OP-028](#cd-op-028), [CD-OP-027](#cd-op-027), [CD-TH-014](#cd-th-014), [CD-TH-015](#cd-th-015), [CD-OP-Adj-018](#cd-op-adj-018), [CD-OP-Adj-019](#cd-op-adj-019). Deep-review files (F-05 cluster + F-02 Liu, in `../deep-review-reports/`): [F-05 Theme C foundational](../deep-review-reports/F-05_ThemeC_deeppass.md); [F-05 Pereira 2026 STB](../deep-review-reports/F-05_Pereira2026_PostJan2026_deeppass.md); [F-05 Whittingham 2026 η-undershoot](../deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md); [F-05 Samaddar 2025 teleparallel-GB](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) + [Addendum (preprint-quality concerns)](../deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md); [F-02 Liu-Qin-Bian 2026 EWPT alternative](../deep-review-reports/F-02_Liu2026_PostJan2026_deeppass.md); [F-02 Theme C foundational](../deep-review-reports/F-02_ThemeC_deeppass.md).
+**Cross-references:** [CD-OP-028](#cd-op-028), [CD-OP-027](#cd-op-027), [CD-TH-014](#cd-th-014), [CD-TH-015](#cd-th-015), [CD-OP-Adj-018](#cd-op-adj-018), [CD-OP-Adj-019](#cd-op-adj-019). Deep-review files (F-05 cluster + F-02 Liu, in `./deep-review-reports/`): [F-05 Theme C foundational](./deep-review-reports/F-05_ThemeC_deeppass.md); [F-05 Pereira 2026 STB](./deep-review-reports/F-05_Pereira2026_PostJan2026_deeppass.md); [F-05 Whittingham 2026 η-undershoot](./deep-review-reports/F-05_Whittingham2026_PostJan2026_deeppass.md); [F-05 Samaddar 2025 teleparallel-GB](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass.md) + [Addendum (preprint-quality concerns)](./deep-review-reports/F-05_Samaddar2025_AdjacencyReview2026_deeppass_Addendum.md); [F-02 Liu-Qin-Bian 2026 EWPT alternative](./deep-review-reports/F-02_Liu2026_PostJan2026_deeppass.md); [F-02 Theme C foundational](./deep-review-reports/F-02_ThemeC_deeppass.md).
 
 ### CD-OP-Item-006
 
@@ -1222,7 +1222,7 @@ Combined-entry exception: D-01 + D-02 are treated as a foundational pair per mat
 **First introduced:** v3 (Issue 2 + scope-expansion)
 **Status:** Active; Open
 **Cross-program portability:** UMF-specific
-**Cross-references:** [CD-TH-018](#cd-th-018), [CD-OP-Adj-010](#cd-op-adj-010). Deep-review files for the five-framework joint citation context (F-10 + B-01 + F-08 + competitor frameworks per CD-OP-Adj-010, in `../deep-review-reports/`): [F-10 Refracted Gravity](../deep-review-reports/F-10_ThemeC_deeppass.md); [F-08 Verlinde EG](../deep-review-reports/F-08_ThemeC_deeppass.md); [B-01 Misner-Wheeler](../deep-review-reports/B-01_ThemeC_deeppass.md); [A-06 Couder hydrodynamic](../deep-review-reports/A-06_ThemeC_deeppass.md); [A-10 BEC + horizon analogue](../deep-review-reports/A-10_ThemeC_deeppass.md).
+**Cross-references:** [CD-TH-018](#cd-th-018), [CD-OP-Adj-010](#cd-op-adj-010). Deep-review files for the five-framework joint citation context (F-10 + B-01 + F-08 + competitor frameworks per CD-OP-Adj-010, in `./deep-review-reports/`): [F-10 Refracted Gravity](./deep-review-reports/F-10_ThemeC_deeppass.md); [F-08 Verlinde EG](./deep-review-reports/F-08_ThemeC_deeppass.md); [B-01 Misner-Wheeler](./deep-review-reports/B-01_ThemeC_deeppass.md); [A-06 Couder hydrodynamic](./deep-review-reports/A-06_ThemeC_deeppass.md); [A-10 BEC + horizon analogue](./deep-review-reports/A-10_ThemeC_deeppass.md).
 
 ### CD-OP-Item-007
 
@@ -1239,7 +1239,7 @@ Combined-entry exception: D-01 + D-02 are treated as a foundational pair per mat
 **First introduced:** v3 (Option A)
 **Status:** Active; Open
 **Cross-program portability:** UMF-specific
-**Cross-references:** [CD-OP-Adj-012](#cd-op-adj-012); [CD-OP-012](#cd-op-012) (honest-disclosure correction #2 — LRD-anomaly empirical-motivation reduction post-Rusakov 2026); [CD-OP-040](#cd-op-040) (filename convention). Deep-review files (Item-007 substantive reviews, in `../deep-review-reports/`): [Rusakov 2026 v1](../deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v1.md) (superseded for methodology framing bias per CD-OP-003 framing-bias correction #1; retained per CD-OP-004); [Rusakov 2026 v2](../deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v2.md) (current canonical); [Rusakov 2026 annotation](../deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_annotation.md) (audit-trail annotation for stale trial ID + historical drafter attribution).
+**Cross-references:** [CD-OP-Adj-012](#cd-op-adj-012); [CD-OP-012](#cd-op-012) (honest-disclosure correction #2 — LRD-anomaly empirical-motivation reduction post-Rusakov 2026); [CD-OP-040](#cd-op-040) (filename convention). Deep-review files (Item-007 substantive reviews, in `./deep-review-reports/`): [Rusakov 2026 v1](./deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v1.md) (superseded for methodology framing bias per CD-OP-003 framing-bias correction #1; retained per CD-OP-004); [Rusakov 2026 v2](./deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_v2.md) (current canonical); [Rusakov 2026 annotation](./deep-review-reports/Item-007_Rusakov2026_LRDcocoon_substantive_review_annotation.md) (audit-trail annotation for stale trial ID + historical drafter attribution).
 
 ---
 
@@ -1260,7 +1260,7 @@ Outgoing cross-references from this index document, per Spec v3 §7.6:
 | (CD-OP-Item-005, CD-OP-Adj-018) | Research Plan | v0.7 | §3, §4, §5.1 | Source provenance for cluster updates; v0.7 supersedes v0.6 |
 | (CD-OP-040 anchor; all OP series entries) | Master VC running file v1.1 | v1.1 | Part B Amendment 13 entry | Source provenance for v1.1 audit-trail close |
 
-**Deep-review files cross-reference manifest** (all 31 files in `../deep-review-reports/` enumerated comprehensively per CD-OP-040; bidirectional navigation from index entries to deep-review files):
+**Deep-review files cross-reference manifest** (all 31 files in `./deep-review-reports/` enumerated comprehensively per CD-OP-040; bidirectional navigation from index entries to deep-review files):
 
 | File | Class | Linked from Index 1 entries |
 |---|---|---|

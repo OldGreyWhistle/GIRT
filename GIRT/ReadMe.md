@@ -39,7 +39,7 @@ For full state recovery and methodology orientation, read in this order:
 
 5. **[Index 1 — Context Definitions v2](./UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md)** — 86 entries across four subdivisions (operational, theoretical, adjudications, items).
 
-6. **[Index 2 — Context Relationships v1](./UMF_Trial_S3M0S1_Index2_ContextRelationships_v1.md)** — 65 relational entries (52 bilateral edges + 13 joint-citation clusters).
+6. **[Index 2 — Context Relationships v2](./UMF_Trial_S3M0S1_Index2_ContextRelationships_v2.md)** — 65 relational entries (52 bilateral edges + 13 joint-citation clusters).
 
 7. **[Index 3 — Metric Units v2](./UMF_Trial_S3M0S1_Index3_MetricUnits_v2.md)** — 32 metric-unit entries.
 

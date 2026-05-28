@@ -6,7 +6,7 @@
 **Contact:** s_browne@ymail.com | https://oldgreywhistle.com
 **Working language:** Australian English (per standing rule v0.35)
 **Repository:** https://github.com/OldGreyWhistle/GIRT
-**ReadMe version:** v1.0 (28 May 2026 AEST)
+**ReadMe version:** v1.1 (28 May 2026 AEST)
 **Parent ReadMe:** [../ReadMe.md](../ReadMe.md) — repository-level orientation, citation, scope of engagement, search terms
 
 ---
@@ -29,29 +29,23 @@ For repository-level information (citation, scope of engagement, search terms, l
 
 For full state recovery and methodology orientation, read in this order:
 
-1. **[Thread Handoff v8](./companion-documents/UMF_Trial_S3M0S1_Thread_Handoff_v8.md)** — mandatory first-read for any thread or reader resuming trial work. Provides trial-state recovery, audit-trail tier map, resumption instructions, and critical don'ts.
+1. **[UMF Research Programme Introduction Letter v2](./companion-documents/UMF_Research_Program_Introduction_27May2026_v2.md)** — over-arching research programme framing; postulate registry; NOTICE binding LLMs operating in vs out of the UMF framework. Mandatory bundle per Amendment 8 §K.
 
-2. **[UMF Research Programme Introduction Letter v2](./companion-documents/UMF_Research_Program_Introduction_27May2026_v2.md)** — over-arching research programme framing; postulate registry; NOTICE binding LLMs operating in vs out of the UMF framework. Mandatory bundle per Amendment 8 §K.
+2. **[Research Toolkit v1.1](./UMF_Trial_S3M0S1_Research_Toolkit_v1_1.md)** — covering document; generic operational layer. Methodology framework, protocols, three-index navigation, version-control workflow, cross-program portability.
 
-3. **[Research Toolkit v1.0](./UMF_Trial_S3M0S1_Research_Toolkit_v1_0.md)** — covering document; generic operational layer. Methodology framework, protocols, three-index navigation, version-control workflow, cross-program portability.
+3. **[Research Toolkit Addendum v1.1](./companion-documents/UMF_Trial_S3M0S1_Research_Toolkit_Addendum_v1_1.md)** — UMF-program-specific worked example. Postulate registry, trial state at Amendment 12, pending direction items, substantive corpus pointer.
 
-4. **[Research Toolkit Addendum v1.0](./companion-documents/UMF_Trial_S3M0S1_Research_Toolkit_Addendum_v1_0.md)** — UMF-program-specific worked example. Postulate registry, trial state at Amendment 12, pending direction items, substantive corpus pointer.
+4. **[Indexes Design Spec v3](./companion-documents/UMF_Trial_S3M0S1_Indexes_Design_Spec_v3.md)** — canonical design contract for the three indexes.
 
-5. **[Indexes Design Spec v3](./companion-documents/UMF_Trial_S3M0S1_Indexes_Design_Spec_v3.md)** — canonical design contract for the three indexes.
+5. **[Index 1 — Context Definitions v2](./UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md)** — 86 entries across four subdivisions (operational, theoretical, adjudications, items).
 
-6. **[Index 1 — Context Definitions v1](./UMF_Trial_S3M0S1_Index1_ContextDefinition_v1.md)** — 86 entries across four subdivisions (operational, theoretical, adjudications, items).
+6. **[Index 2 — Context Relationships v1](./UMF_Trial_S3M0S1_Index2_ContextRelationships_v1.md)** — 65 relational entries (52 bilateral edges + 13 joint-citation clusters).
 
-7. **[Index 2 — Context Relationships v1](./UMF_Trial_S3M0S1_Index2_ContextRelationships_v1.md)** — 65 relational entries (52 bilateral edges + 13 joint-citation clusters).
+7. **[Index 3 — Metric Units v2](./UMF_Trial_S3M0S1_Index3_MetricUnits_v2.md)** — 32 metric-unit entries.
 
-8. **[Index 3 — Metric Units v1](./UMF_Trial_S3M0S1_Index3_MetricUnits_v1.md)** — 32 metric-unit entries.
+8. **VC Amendments 7 through 13** (in `./version-control/`) — audit-trail anchors. Read in chronological order. Master VC running file v1.1 (in `./version-control/`) provides the running log summary.
 
-9. **VC Amendments 7 through 13** (in `./version-control/`) — audit-trail anchors. Read in chronological order. Master VC running file v1.1 (in `./version-control/`) provides the running log summary.
-
-10. **[Synthesis Paper Scaffold v8 consolidated](./companion-documents/UMF_Trial_S3M0S1_Synthesis_Paper_Scaffold_v8_consolidated.md)** — reading-orientation deliverable; substantive synthesis-paper structure.
-
-11. **[Research Plan v0.7 Draft](./companion-documents/UMF_Trial_S3M0S1_Research_Plan_v0_7_Draft.docx)** — substantive corpus deliverable.
-
-12. **Deep-review reports** (in `./deep-review-reports/`) — proof-of-research-provenance artefacts. Read selectively as referenced from indexes and Scaffold.
+9. **Deep-review reports** (in `./deep-review-reports/`) — proof-of-research-provenance artefacts. Read selectively as referenced from indexes and Scaffold.
 
 ---
 

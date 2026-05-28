@@ -181,7 +181,7 @@ This is a research-community-engagement honest-disclosure observation. The Samad
 **Distinct from:**
 - F-05 curvature-based branch (Davoudiasl baseline; Lambiase-Scarpetta 2006; Ramos-Páramos 2017; Pereira 2026 STB; Whittingham 2026 f(R) GB; Goodarzi 2026; Malakar group Papers 1 + 2 of next-cycle list + Paper 4 of original list)
 - F-05 scalar-tensor branch (Pereira 2026 STB; EMSG-class Marciu / Pereira-Lobo-Mimoso EMSG / Paper 2 of next-cycle Malakar-Mazumdar-Bhuyan f(R, G_μν T^μν))
-- F-02 (first-order phase transitions; Liu-Qin-Bian 2026; Mazumdar-White 2019; Croon et al. 2020)
+- [F-02](F-02_ThemeC_deeppass.md) (first-order phase transitions; Liu-Qin-Bian 2026; Mazumdar-White 2019; Croon et al. 2020)
 
 **NO new ESCALATE matrix entry created** per Amendment 9 §3.C corpus-discipline maintenance; Amendment 9 Addendum §7.5 standing rule reinforces.
 

@@ -189,14 +189,14 @@ F-08 has **substantial mixed empirical engagement**. Per RP §4 three-category f
 
 ### Cross-references
 
-- **F-08 ↔ B-04 Wheeler "It from Bit":** Direct relationship. B-04 is information-primary foundational programme; F-08 is information-primary specific gravitational theory. F-08 is a modern technical realisation of the It-from-Bit programme. **Joint citation appropriate** for UMF v0.7 §3.1 assumption 4 information-allowance precedent.
-- **F-08 ↔ F-06 LQG:** Both are quantum-gravity-class frameworks. F-06 is canonical quantisation; F-08 is emergent-from-information. Different approaches.
-- **F-08 ↔ F-07 causal sets:** Both engage discrete/microscopic underlying structure giving rise to emergent macroscopic gravity. Different specific commitments.
-- **F-08 ↔ B-01 Misner-Wheeler geometrodynamics:** Both are foundational frameworks for gravity. B-01 geometry-primary; F-08 information-primary; UMF positions between (gravity-primary with information-allowance).
+- **F-08 ↔ [B-04](B-04_ThemeC_deeppass.md) Wheeler "It from Bit":** Direct relationship. B-04 is information-primary foundational programme; F-08 is information-primary specific gravitational theory. F-08 is a modern technical realisation of the It-from-Bit programme. **Joint citation appropriate** for UMF v0.7 §3.1 assumption 4 information-allowance precedent.
+- **F-08 ↔ [F-06](F-06_ThemeC_deeppass.md) LQG:** Both are quantum-gravity-class frameworks. F-06 is canonical quantisation; F-08 is emergent-from-information. Different approaches.
+- **F-08 ↔ [F-07](F-07_ThemeC_deeppass.md) causal sets:** Both engage discrete/microscopic underlying structure giving rise to emergent macroscopic gravity. Different specific commitments.
+- **F-08 ↔ [B-01](B-01_ThemeC_deeppass.md) Misner-Wheeler geometrodynamics:** Both are foundational frameworks for gravity. B-01 geometry-primary; F-08 information-primary; UMF positions between (gravity-primary with information-allowance).
 - **F-08 ↔ UMF v0.7 §3.1 assumption 4:** **Strongest information-allowance precedent in trial.** Verlinde-class entanglement-entropy framework is explicitly admitted by UMF v0.7.
 - **F-08 ↔ UMF gravitoelectric DM:** **Strongest "no-particle DM" mainstream framework precedent.** Different mechanism (entropy displacement vs reflective wavefront sourcing) but shared elimination intention.
 - **F-08 ↔ UMF T_G:** Partial structural resonance via elastic-memory / linear-elasticity-definition-of-mass framework. Not identical but pressure-stress structural alignment.
-- **F-08 ↔ A-05 boson stars:** Both have substantial empirical engagement at galactic scale; both produce mixed/contested test results. F-08 at gravity-theory level; A-05 at compact-object level.
+- **F-08 ↔ [A-05](A-05_ThemeC_deeppass.md) boson stars:** Both have substantial empirical engagement at galactic scale; both produce mixed/contested test results. F-08 at gravity-theory level; A-05 at compact-object level.
 
 ### Outside-corpus markers
 

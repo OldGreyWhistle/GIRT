@@ -148,19 +148,19 @@ A-01 has **substantial indirect empirical engagement via A-05 modern-realisation
 | Wheeler period | Year | Entry | Status |
 |---|---|---|---|
 | 1st (particles) | 1955 | **A-01** | **This entry** — particles as classical EM-bound geometric structures; supersolar mass range; Wheeler's own scale-limit acknowledgement |
-| 1st-2nd transition | 1957 | B-01 | Theme C T2 entry (previous) — broader geometrodynamics; Rainich already-unified |
-| 2nd application | 1959 | B-02 | Theme C T2 entry — pure-gravity-only matter rigorous proof |
-| 3rd (information) | 1989/1990 | B-04 | Theme C T1 entry — It-from-Bit |
+| 1st-2nd transition | 1957 | [B-01](B-01_ThemeC_deeppass.md) | Theme C T2 entry (previous) — broader geometrodynamics; Rainich already-unified |
+| 2nd application | 1959 | [B-02](B-02_ThemeC_deeppass.md) | Theme C T2 entry — pure-gravity-only matter rigorous proof |
+| 3rd (information) | 1989/1990 | [B-04](B-04_ThemeC_deeppass.md) | Theme C T1 entry — It-from-Bit |
 
 **Joint citation A-01 + A-05 + A-09 + B-01 + B-02 + B-04 brackets the entire Wheeler-tradition lineage** for UMF synthesis paper. Stephen-question 2 three-way structure (A-01 historical / A-05 empirical / A-09 mathematical) now fully populated with deep-pass-verified content.
 
 **Other cross-references:**
-- **A-01 ↔ A-05 boson stars:** **Direct historical-lineage continuation** per Liebling-Palenzuela 2023 verbatim attribution (verified at A-05 Theme C entry). A-01's EM-only construction found no stable solutions; A-05's scalar-field addition produced stable boson stars. A-05 is the modern realised form of A-01's programme.
-- **A-01 ↔ A-09 Hestenes 2019:** A-01 conceptual foundation for "particles as bound wave configurations" at supersolar scale; A-09 modern mathematical-representation analogue at elementary-particle scale with ℏ load-bearing. **Per Stephen-question 2 recommended three-way framing.**
-- **A-01 ↔ B-01 Misner-Wheeler 1957:** B-01 is the immediate broadening of A-01's specific construction into the full geometrodynamics programme. A-01 → B-01 lineage: specific construction → broad programme.
-- **A-01 ↔ B-02 Brill 1959:** B-02 is the rigorous mathematical proof for the pure-gravity case (no EM field needed) that Wheeler's broader programme suggested would be possible.
-- **A-01 ↔ A-04 Skyrme topological solitons:** Both classical-soliton particle representations. Skyrme uses topology of chiral field; Wheeler uses EM + gravitational binding. **Different mechanisms; same general "particles as classical field configurations" direction.**
-- **A-01 ↔ F-08 Verlinde EG:** Different sectors of "alternative-physics" landscape. A-01 specific construction; F-08 alternative gravity framework. A-01's quantum-graviball as DM candidate is parallel to F-08's emergent-gravity DM-elimination in providing alternative to particle DM.
+- **A-01 ↔ [A-05](A-05_ThemeC_deeppass.md) boson stars:** **Direct historical-lineage continuation** per Liebling-Palenzuela 2023 verbatim attribution (verified at A-05 Theme C entry). A-01's EM-only construction found no stable solutions; A-05's scalar-field addition produced stable boson stars. A-05 is the modern realised form of A-01's programme.
+- **A-01 ↔ [A-09](A-09_ThemeC_deeppass.md) Hestenes 2019:** A-01 conceptual foundation for "particles as bound wave configurations" at supersolar scale; A-09 modern mathematical-representation analogue at elementary-particle scale with ℏ load-bearing. **Per Stephen-question 2 recommended three-way framing.**
+- **A-01 ↔ [B-01](B-01_ThemeC_deeppass.md) Misner-Wheeler 1957:** B-01 is the immediate broadening of A-01's specific construction into the full geometrodynamics programme. A-01 → B-01 lineage: specific construction → broad programme.
+- **A-01 ↔ [B-02](B-02_ThemeC_deeppass.md) Brill 1959:** B-02 is the rigorous mathematical proof for the pure-gravity case (no EM field needed) that Wheeler's broader programme suggested would be possible.
+- **A-01 ↔ [A-04](A-04_ThemeC_deeppass.md) Skyrme topological solitons:** Both classical-soliton particle representations. Skyrme uses topology of chiral field; Wheeler uses EM + gravitational binding. **Different mechanisms; same general "particles as classical field configurations" direction.**
+- **A-01 ↔ [F-08](F-08_ThemeC_deeppass.md) Verlinde EG:** Different sectors of "alternative-physics" landscape. A-01 specific construction; F-08 alternative gravity framework. A-01's quantum-graviball as DM candidate is parallel to F-08's emergent-gravity DM-elimination in providing alternative to particle DM.
 - **A-01 ↔ UMF/GWM conceptual foundation:** **Direct conceptual antecedent for GWM-style "matter as gravity-bound wave" programme** with critical scale-difference honest disclosure.
 
 ### Outside-corpus markers

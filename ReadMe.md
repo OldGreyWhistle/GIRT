@@ -6,7 +6,7 @@
 **Website:** https://oldgreywhistle.com
 **Repository:** https://github.com/OldGreyWhistle/GIRT
 **Working language:** Australian English
-**ReadMe version:** v1.0 (28 May 2026 AEST)
+**ReadMe version:** v1.1 (28 May 2026 AEST)
 
 ---
 
@@ -90,8 +90,8 @@ For the full reading order, document inventory, and methodology orientation, see
 
 1. This ReadMe (you are here) — repository-level orientation
 2. [GIRT folder ReadMe](./GIRT/ReadMe.md) — project-level reading order
-3. [Research Toolkit v1.0](./GIRT/UMF_Trial_S3M0S1_Research_Toolkit_v1_0.md) — methodology layer
-4. [Toolkit Addendum v1.0](./GIRT/companion-documents/UMF_Trial_S3M0S1_Research_Toolkit_Addendum_v1_0.md) — UMF-specific worked example
+3. [Research Toolkit v1.1](./GIRT/UMF_Trial_S3M0S1_Research_Toolkit_v1_1.md) — methodology layer
+4. [Toolkit Addendum v1.1](./GIRT/companion-documents/UMF_Trial_S3M0S1_Research_Toolkit_Addendum_v1_1.md) — UMF-specific worked example
 5. Indexes 1, 2, 3 — navigation layer
 
 ---
@@ -108,5 +108,5 @@ GIRT is an active research project. Current cycle state and the substantive corp
 
 ---
 
-*ReadMe.md v1.0 — 28 May 2026 (AEST)*
+*ReadMe.md v1.1 — 28 May 2026 (AEST)*
 *Drafter: Claude Opus 4.7 Adaptive (Anthropic)*

@@ -91,7 +91,7 @@ UMF-program-specific and supporting documents:
 - `Item-007_Rusakov2026_LRDcocoon_substantive_review_v2.md`
 - `Item-007_Rusakov2026_LRDcocoon_substantive_review_annotation.md`
 
-Convention registered as CD-OP-040 in Index 1 v2 (pending production). See [Amendment 13](./version-control/VC_v0_35_Amendment13_filename_alignment_cycle.md) for full registration.
+Convention registered as CD-OP-040 in Index 1 v2 (pending production). See [Amendment 13](./version-control/VC_v0_35_Amendment13_filename_alignment_cycle.md) for full registration. We also use a cumulative document to track versions. See [Version Control v1.2](./version-control/UMF_Trial_S3M5S1_Version_Control_v1_2.md)
 
 ### `./version-control/`
 
@@ -117,7 +117,7 @@ Superseded documents and predecessor files relocated per CD-OP-004 audit-trail i
 
 **Controlled-synthesis-injection vs uncontrolled-synthesis-creep:** explicit, recorded introduction of new framework commitments is controlled-injection (documented in Introduction Letter and VC Amendments). Inadvertent introduction is creep, actively guarded against.
 
-For full operational definitions see [Research Toolkit v1.0](./UMF_Trial_S3M0S1_Research_Toolkit_v1_0.md) §2.
+For full operational definitions see [Research Toolkit v1.1](./UMF_Trial_S3M0S1_Research_Toolkit_v1_1.md) §2.
 
 ---
 
@@ -147,8 +147,6 @@ Master VC v1.1 is the current canonical running log (28 May 2026 AEST). Amendmen
 - Hyperlink completeness pass across 31 deep-review reports → Index v2 cross-reference manifests
 - Scaffold v8 inline reference updates to renamed deeppass filenames
 - Cycle artefact relocation (CD-OP-040 entry draft, Amendment 13 draft, Action checklist) to staging or `./companion-documents/`
-
-For current pending Stephen direction, see [Thread Handoff v8](./companion-documents/UMF_Trial_S3M0S1_Thread_Handoff_v8.md) §8 and §12.
 
 ---
 
